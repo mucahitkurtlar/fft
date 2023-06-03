@@ -1,6 +1,6 @@
 # fft
 
-_find font type_
+_find font types_
 
 Find font types used on a website.
 
