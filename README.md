@@ -6,6 +6,12 @@ Find font types used on a website.
 
 ## Installation
 
+Install latest version from [releases](https://github.com/mucahitkurtlar/fft/releases) or build from source.
+
+## Build from source
+
+### Pull source code
+
 ```bash
 git clone https://github.com/mucahitkurtlar/fft.git
 cd fft
@@ -13,7 +19,7 @@ go mod download
 go build
 ```
 
-## Usage
+### Usage
 
 ```
 fft <url> [flags]
@@ -31,7 +37,7 @@ Flags:
 
 ```
 
-## Example
+### Example
 ```bash
 ./fft https://www.example.com
 ```
