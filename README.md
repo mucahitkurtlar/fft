@@ -5,12 +5,11 @@ _find font types_
 Find font types used on a website.
 
 ## Installation
+### Pre-built binaries
 
-Install latest version from [releases](https://github.com/mucahitkurtlar/fft/releases) or build from source.
+Install latest version from [releases](https://github.com/mucahitkurtlar/fft/releases).
 
-## Build from source
-
-### Pull source code
+### Build from source
 
 ```bash
 git clone https://github.com/mucahitkurtlar/fft.git
@@ -18,8 +17,7 @@ cd fft
 go mod download
 go build
 ```
-
-### Usage
+## Usage
 
 ```
 fft <url> [flags]
